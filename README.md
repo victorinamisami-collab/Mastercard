@@ -1,13 +1,17 @@
-# Mastercard
 
-**Mastercard Cybersecurity virtual experience program on Forage++
-*April 26, 2026*
+# Mastercard - Security Awareness Analyst Job Simulation
 
--Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
--Helped identify and report security threats such as phishing 
--Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+## 📌 Project Overview
+This repository documents the strategic deliverables completed during the **Mastercard Cybersecurity Job Simulation** on Forage. Serving as an analyst on Mastercard’s Security Awareness Team, the focus was entirely on identifying social engineering threats and designing enterprise-wide security training architectures.
 
-**Certificate:** https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_69ebfc087cbaec93cd9af8d8_1777160379583_completion_certificate.pdf
+## 🎯 Core Accomplishments
+* **Threat Mitigation:** Analyzed, identified, and established reporting workflows for phishing attacks to protect corporate infrastructure.
+* **Data-Driven Training:** Audited business units to identify high-risk areas and deployed targeted training frameworks to reduce human-factor vulnerability.
+* **Security Culture:** Implemented continuous training procedures designed to align employee behavior with organizational security policies.
 
-### Skills Gained:
-Communication, Cybersecurity, Data Analysis, Data Visualization, Design Thinking, Problem Solving, Security Awareness, Security Training, Strategy
+## 📁 Repository Structure
+* **[Threat Analysis](./governance/threat-analysis.md):** Phishing identification frameworks and incident triage steps.
+* **[Training Strategy](./governance/training-strategy.md):** Targeted Role-Based security awareness implementation matrices.
+
+***
+*Note: This project was completed as part of the Mastercard Cybersecurity Simulation on Forage (Completed: May 2026).*
